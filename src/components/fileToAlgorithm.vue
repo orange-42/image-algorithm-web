@@ -1,4 +1,5 @@
 <script setup name="fileToAlgorithm">
+import { ref } from 'vue'
 import Upload from './common/Upload.vue'
 
 // 分析按钮loading
